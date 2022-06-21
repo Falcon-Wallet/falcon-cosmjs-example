@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Falcon CosmJS Example
+This is an example app to demonstrate how to connect to Falcon Wallet and use with CosmJS.
