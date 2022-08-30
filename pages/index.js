@@ -35,6 +35,17 @@ const CHAINS = [
          baseDenom: 'inj'
 
       }
+   },
+   {
+      label: 'Evmos',
+      value: {
+         chainId: 'evmos_9001-2',
+         rpcUrl: 'https://rpc-evmos.whispernode.com',
+         gasLimit: '140000',
+         gasPrice: '25000000000',
+         baseDenom: 'aevmos'
+
+      }
    }
 ]
 
